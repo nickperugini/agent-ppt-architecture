@@ -6,3 +6,5 @@ gitpython
 python-dotenv
 requests
 diagrams
+llama-cpp-python
+langchain-community
